@@ -1,6 +1,4 @@
 
-lukhaninukd
-/
 text = input("text").lower()
 
 textL = len(text)
